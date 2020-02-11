@@ -1,1 +1,6 @@
-This repository contains practice exercises - LinkedIn learning
+Project description :
+
+Predict whether as passenger survived or not based on features like age,sex,travelling with family,cabin etc.
+
+Various machine learning algorithms like LR,SVM,MLP,RF,GB were tried and the best model was selected. This model was used to predict the survivors on test data set.
+Dataset used - Titanic.csv
